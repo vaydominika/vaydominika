@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://vay.hu"><img src="https://img.shields.io/badge/my_website-F3A6C8?style=for-the-badge&amp;logoColor=70445C" alt="my website" /></a>
   <a href="https://github.com/vaydominika?tab=repositories"><img src="https://img.shields.io/badge/my_projects-DCCEF5?style=for-the-badge&amp;logoColor=70445C" alt="my projects" /></a>
+  <a href="https://codeforgood.hu"><img src="https://img.shields.io/badge/our_team-FFDCCB?style=for-the-badge&amp;logoColor=70445C" alt="our team — CodeforGood" /></a>
 </p>
 
 <br />
@@ -18,6 +19,20 @@
 i'm dominika! i'm into web design and all things tech. this is where i keep my projects, experiments, and the things i'm learning along the way.
 
 have a look around ♡
+
+<br />
+
+### 🌸 websites we've made
+
+i also build websites with my team at CodeforGood! here are a few we've worked on together:
+
+- 🎨 [CodeforGood](https://codeforgood.hu) — our team's website
+- 🌰 [Dió Döme Sétálója](https://diodome.setaloja.hu)
+- 💬 [Dialóg Egyesület](https://www.dialogegyesulet.hu)
+- 📺 [live.cirmiskolc.hu](https://live.cirmiskolc.hu)
+- 🏛️ [hermuz.maty.as](https://hermuz.maty.as)
+
+need a website or have a project in mind? [get in touch with us at codeforgood.hu](https://codeforgood.hu) ♡
 
 <br />
 
@@ -35,12 +50,11 @@ have a look around ♡
 ### 🧁 things i've worked with
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-F3A6C8?style=flat-square&amp;logo=typescript&amp;logoColor=70445C" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-FCE4EF?style=flat-square&amp;logo=javascript&amp;logoColor=70445C" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML-FFDCCB?style=flat-square&amp;logo=html5&amp;logoColor=70445C" alt="HTML" />
-  <img src="https://img.shields.io/badge/Java-E7DCF6?style=flat-square" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-DCCEF5?style=flat-square&amp;logo=kotlin&amp;logoColor=70445C" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/C%23-F8D2E4?style=flat-square" alt="C#" />
+  <img src="https://img.shields.io/badge/React-F3A6C8?style=flat-square&amp;logo=react&amp;logoColor=70445C" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-FCE4EF?style=flat-square&amp;logo=nextdotjs&amp;logoColor=70445C" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Prisma-FFDCCB?style=flat-square&amp;logo=prisma&amp;logoColor=70445C" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Angular-E7DCF6?style=flat-square&amp;logo=angular&amp;logoColor=70445C" alt="Angular" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-DCCEF5?style=flat-square&amp;logo=tailwindcss&amp;logoColor=70445C" alt="Tailwind CSS" />
 </p>
 
 <br />
